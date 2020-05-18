@@ -1,2 +1,0 @@
-# thanh-ph-ng
-nothing
